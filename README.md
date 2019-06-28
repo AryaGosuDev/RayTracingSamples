@@ -1,3 +1,6 @@
+These images are sample images of my multi-threaded CPU ray tracing program. All objects are added using an n-ordered object file then segmented into a binary space partition data structure using auto-partitioning.
+Some of the objects include a yellow gourd and a low-poly Buddha statue. The lighting and shading effects of each scene are described in the name of the respective file.
+
 File explanation :
 
 dofeffect -> Depth of field effect where the depth of focus is near the depth of the Buddha statue.
