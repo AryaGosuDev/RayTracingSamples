@@ -22,3 +22,5 @@ sceneRoomRadiosityColor -> Color + light + radiosity
 sceneRoomRadiosityLowAO -> Low AO shading in the room + radiosity.
 
 sceneRoomRadiosityHighAO -> High AO shading + radiosity ( note the reflected light below the window and ceiling)
+
+sceneVaseCookTorrRough , sceneVaseCookTorrSmooth -> Cook Torrance specular lighting models for rough / smooth surface microfacets.
